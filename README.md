@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanzeemTabasum/Leetcode/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/TanzeemTabasum/Leetcode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
