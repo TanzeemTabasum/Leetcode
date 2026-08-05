@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -13,4 +14,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
