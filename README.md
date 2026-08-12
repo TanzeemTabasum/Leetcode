@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3942-minimum-operations-to-sort-a-permutation](https://github.com/TanzeemTabasum/Leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
 |  |
 | ------- |
