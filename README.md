@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanzeemTabasum/Leetcode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
 | [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
+| [3941-password-strength](https://github.com/TanzeemTabasum/Leetcode/tree/master/3941-password-strength) |
 ## Sorting
 |  |
 | ------- |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/TanzeemTabasum/Leetcode/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/TanzeemTabasum/Leetcode/tree/master/0344-reverse-string) |
 | [3931-check-adjacent-digit-differences](https://github.com/TanzeemTabasum/Leetcode/tree/master/3931-check-adjacent-digit-differences) |
+| [3941-password-strength](https://github.com/TanzeemTabasum/Leetcode/tree/master/3941-password-strength) |
 ## Stack
 |  |
 | ------- |
