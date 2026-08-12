@@ -7,11 +7,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/TanzeemTabasum/Leetcode/tree/master/0001-two-sum) |
 | [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/TanzeemTabasum/Leetcode/tree/master/0001-two-sum) |
 | [3731-find-missing-elements](https://github.com/TanzeemTabasum/Leetcode/tree/master/3731-find-missing-elements) |
+| [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Sorting
 |  |
 | ------- |
@@ -20,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
+| [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
@@ -41,4 +44,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/TanzeemTabasum/Leetcode/tree/master/0344-reverse-string) |
+## Rolling Hash
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Suffix Array
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
+## Hash Function
+|  |
+| ------- |
+| [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
 <!---LeetCode Topics End-->
