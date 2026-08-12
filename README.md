@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/TanzeemTabasum/Leetcode/tree/master/0704-binary-search) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/TanzeemTabasum/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 | [3934-smallest-unique-subarray](https://github.com/TanzeemTabasum/Leetcode/tree/master/3934-smallest-unique-subarray) |
 ## Math
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/TanzeemTabasum/Leetcode/tree/master/0009-palindrome-number) |
+| [3932-count-k-th-roots-in-a-range](https://github.com/TanzeemTabasum/Leetcode/tree/master/3932-count-k-th-roots-in-a-range) |
 ## String
 |  |
 | ------- |
